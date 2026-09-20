@@ -74,6 +74,5 @@ Add a screenshot of your project here:
 
 **Amith Shetty**
 
----
-
-⭐ If you like this project, consider giving the repository a star!
+##Can access it using the link 
+https://amithshettym7-web.github.io/Youtube-clone-frontend/
